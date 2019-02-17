@@ -1,5 +1,7 @@
 function E = oscillator(E,n)
 %Looks for energy eigenvalue close to input energy
+%Example run: oscillator(2.7,1) will converge on 3 
+%according to the known E=2n+1 for a quantum harmonic oscillator
 %Input:
 % E0: Input energy guess
 
