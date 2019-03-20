@@ -5,8 +5,8 @@ analytical one, with the exact ground state energy (left figure) and inixact ene
 and an approximated energy an input one can get an improved eigenvalue.
 
 <p float="left">
-<img src="ground_state.png" width = "400"> 
-<img src="ground_state_inexact.png" width = "405">
+<img src="images/ground_state.png" width = "400"> 
+<img src="images/ground_state_inexact.png" width = "405">
 </p>
 
 
